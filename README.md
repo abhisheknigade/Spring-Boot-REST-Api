@@ -1,6 +1,4 @@
-I have designed a RESTful API for performing CRUD (Create, Read, Update, Delete) operations on student records. 
-This API will provide endpoints to manage student data stored in a database. 
-Here's a brief overview of the API:
+
 ================================================================================================================================================
 
 GET /students:
